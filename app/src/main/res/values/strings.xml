@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Consulta CEP</string>
+    <string name="titulo">Consulta de CEP</string>
+    <string name="subtitulo">Digite um CEP para buscar o endereço</string>
+    <string name="hint_cep">Digite o CEP (somente números)</string>
+    <string name="label_cep">CEP</string>
+    <string name="botao_consultar">Consultar</string>
+
+    <string name="erro_campo_vazio">Por favor, digite um CEP.</string>
+    <string name="erro_cep_invalido">CEP inválido. Digite 8 números.</string>
+    <string name="erro_cep_nao_encontrado">CEP não encontrado. Verifique e tente novamente.</string>
+    <string name="erro_conexao">Erro de conexão. Verifique sua internet.</string>
+    <string name="carregando">Consultando…</string>
+
+    <string name="rotulo_logradouro">Logradouro</string>
+    <string name="rotulo_bairro">Bairro</string>
+    <string name="rotulo_cidade">Cidade</string>
+    <string name="rotulo_estado">Estado (UF)</string>
+    <string name="rotulo_ddd">DDD</string>
+</resources>
