@@ -46,6 +46,7 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 6. O dispositivo utilizado foi o Medium Phone com API 25
 
 ## Prints do aplicativo
+Caso todas as prints não aparecem, clique na imagem de alguma que ela levará para o arquivo onde estão as outras.
 
 ![Tela inicial](prints/tela_inicial.png)
 ![Resultado da consulta](prints/resultado.png)
