@@ -43,6 +43,7 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 3. Aguardar a sincronização do Gradle.
 4. Executar o app em um emulador ou dispositivo físico.
 5. Informar um CEP válido (somente números, ex.: `28300000`) e clicar em Consultar.
+6. O dispositivo utilizado foi o Medium Phone com API 25
 
 ## Prints do aplicativo
 
